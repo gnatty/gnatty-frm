@@ -1,0 +1,17 @@
+{
+    "name": "gnatty/gnatty",
+    "description": "framework php",
+    "authors": [
+        {
+            "name": "Sercan Yildiz",
+            "email": "ysercanz@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "gnatty\\": "src/gnatty/",
+            "site\\": "src-site/"
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "files.exclude": {
+        "**/._**": true,
+        "**/._.**": true,
+        "vendor": true,
+        "**.conf": true
+    },
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+}
